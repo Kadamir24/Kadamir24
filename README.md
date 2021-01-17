@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/FqdGGgugkC4Xm/source.gif" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadamir24)](https://github.com/Kadamir24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadamir24&theme=onedark)](https://github.com/Kadamir24/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
