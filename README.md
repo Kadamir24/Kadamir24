@@ -1,4 +1,4 @@
-### Hi, my name is Amir and I am beginner front-end developer 👋
+### Hi, my name is Amir and I am front-end developer 👋
 
 <img align='right' src="https://media.giphy.com/media/FqdGGgugkC4Xm/source.gif" width="400">
 
